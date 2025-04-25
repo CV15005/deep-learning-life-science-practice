@@ -15,6 +15,7 @@
 Пример фильтрации приведен [здесь](https://colab.research.google.com/drive/1qxXjec9gg5NgH0FEVoedgyRbZBk5b7GX?usp=sharing).
 
 Лабораторная работа основана на материалах задания курса [CS 444 Deep Learning for Computer Vision](https://slazebni.cs.illinois.edu/spring24/).
+
 С исходными материалами и инструкциями можно познакомиться [здесь](https://slazebni.cs.illinois.edu/spring24/assignment4.html).
 
 [Ссылка на оригинальную базу изображений кошек cats.zip](https://drive.google.com/file/d/1z6rgdKhJINmriXNJ_bUsTdsefoHh2QFD/view?usp=sharing)
