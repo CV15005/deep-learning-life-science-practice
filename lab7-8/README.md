@@ -27,5 +27,5 @@
 
 [Ссылка на актуальный пример оптимизации гиперпараметров из документации ClearML, используется keras](https://github.com/clearml/clearml/tree/master/examples/optimization/hyper-parameter-optimization)
 
-Примените wandb sweeps для поиска оптимальных параметров модели из лабораторной работы №7.
+Примените wandb sweeps для поиска оптимальных параметров вашей модели из лабораторной работы №7.
 
