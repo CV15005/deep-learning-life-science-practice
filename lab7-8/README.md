@@ -23,9 +23,9 @@
 
 Схожий функционал поиска гиперпараметров есть и в ClearML.
 
-[Много полезных материалов по ClearML на русском языке, связка Lightning + ClearML, есть примеры по оптимизации гиперапараметров](https://github.com/a-milenkin/ml_instruments/tree/f9cfe56b418f06565e6a777a8b12e9aa99cef1c4/notebooks)
+[Много полезных материалов по ClearML на русском языке, связка Lightning + ClearML, есть примеры по оптимизации гиперпараметров](https://github.com/a-milenkin/ml_instruments/tree/f9cfe56b418f06565e6a777a8b12e9aa99cef1c4/notebooks)
 
-[Ссылка на актуальный пример из документации, используется keras](https://github.com/clearml/clearml/tree/master/examples/optimization/hyper-parameter-optimization)
+[Ссылка на актуальный пример из документации ClearML, используется keras](https://github.com/clearml/clearml/tree/master/examples/optimization/hyper-parameter-optimization)
 
 Примените wandb sweeps для поиска оптимальных параметров модели из лабораторной работы №7.
 
